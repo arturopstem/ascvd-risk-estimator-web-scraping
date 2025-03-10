@@ -1,0 +1,35 @@
+const HEADERS = {
+  all: [
+    'Codigo_caso',
+    'Codigo_Caso_2',
+    'CODIGO',
+    'Age',
+    'Sex',
+    'Systolic',
+    'Diastolic',
+    'Total Choles',
+    'HDL',
+    'LDL ch',
+    'Tabaco',
+    'Hypertension',
+    'Dislipidemia',
+    'Statin',
+    'Current 10-Year ASCVD Risk',
+    'Lifetime ASCVD Risk',
+    'Optimal ASCVD Risk',
+  ],
+  inputHEADERS: [
+    'Age',
+    'Sex',
+    'Systolic',
+    'Diastolic',
+    'Total Choles',
+    'HDL',
+    'LDL ch',
+    'Tabaco',
+    'Hypertension',
+    'Statin',
+  ],
+};
+
+module.exports = HEADERS;
